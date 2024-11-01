@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 01 13:52:29 CST 2024
+log4j-api-2.10.0.jar>central=
+log4j-api-2.10.0.pom>aliyunmaven=
+log4j-api-2.10.0.pom>central=
+log4j-api-2.10.0-sources.jar>central=
+log4j-api-2.10.0-javadoc.jar>central=
+log4j-api-2.10.0.jar>aliyunmaven=
