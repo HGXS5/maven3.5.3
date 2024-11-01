@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Nov 01 13:59:54 CST 2024
 maven-profile-2.2.1.jar>central=
+=======
+#Thu Oct 31 13:58:54 CST 2024
+>>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
 maven-profile-2.2.1.pom>central=

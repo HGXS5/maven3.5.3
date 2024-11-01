@@ -1,3 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Nov 01 13:59:10 CST 2024
+=======
+#Thu Oct 31 13:59:19 CST 2024
+>>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
 maven-3.1.1.pom>central=

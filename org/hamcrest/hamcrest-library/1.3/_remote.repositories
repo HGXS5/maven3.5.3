@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Nov 01 13:52:26 CST 2024
 hamcrest-library-1.3.pom>aliyunmaven=
 hamcrest-library-1.3-javadoc.jar>central=
@@ -6,3 +7,8 @@ hamcrest-library-1.3-sources.jar>central=
 hamcrest-library-1.3.jar>central=
 hamcrest-library-1.3.pom>central=
 hamcrest-library-1.3.jar>aliyunmaven=
+=======
+#Thu Oct 31 13:58:21 CST 2024
+hamcrest-library-1.3.jar>central=
+hamcrest-library-1.3.pom>central=
+>>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1

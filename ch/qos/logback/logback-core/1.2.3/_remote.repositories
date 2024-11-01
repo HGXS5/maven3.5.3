@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Nov 01 13:51:45 CST 2024
 logback-core-1.2.3.jar>central=
 logback-core-1.2.3.pom>central=
@@ -6,3 +7,8 @@ logback-core-1.2.3.jar>aliyunmaven=
 logback-core-1.2.3-javadoc.jar>central=
 logback-core-1.2.3-sources.jar>central=
 logback-core-1.2.3.pom>aliyunmaven=
+=======
+#Thu Oct 31 13:58:21 CST 2024
+logback-core-1.2.3.jar>central=
+logback-core-1.2.3.pom>central=
+>>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1

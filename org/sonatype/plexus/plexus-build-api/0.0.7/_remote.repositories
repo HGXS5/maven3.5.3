@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Nov 01 13:53:43 CST 2024
+=======
+#Thu Oct 31 13:58:46 CST 2024
+>>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
 plexus-build-api-0.0.7.jar>central=
 plexus-build-api-0.0.7.pom>central=

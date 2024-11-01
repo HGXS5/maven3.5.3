@@ -1,3 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Nov 01 13:59:50 CST 2024
+=======
+#Thu Oct 31 13:58:59 CST 2024
+>>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
 apache-11.pom>central=

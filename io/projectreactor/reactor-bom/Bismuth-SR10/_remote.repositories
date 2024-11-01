@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Nov 01 13:09:18 CST 2024
 reactor-bom-Bismuth-SR10.pom>aliyunmaven=
+=======
+#Thu Oct 31 13:57:41 CST 2024
+>>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
 reactor-bom-Bismuth-SR10.pom>central=

@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Fri Nov 01 13:52:14 CST 2024
 android-json-0.0.20131108.vaadin1-javadoc.jar>central=
 android-json-0.0.20131108.vaadin1.jar>central=
@@ -6,3 +7,8 @@ android-json-0.0.20131108.vaadin1.pom>central=
 android-json-0.0.20131108.vaadin1.jar>aliyunmaven=
 android-json-0.0.20131108.vaadin1.pom>aliyunmaven=
 android-json-0.0.20131108.vaadin1-sources.jar>central=
+=======
+#Thu Oct 31 13:58:21 CST 2024
+android-json-0.0.20131108.vaadin1.jar>central=
+android-json-0.0.20131108.vaadin1.pom>central=
+>>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
