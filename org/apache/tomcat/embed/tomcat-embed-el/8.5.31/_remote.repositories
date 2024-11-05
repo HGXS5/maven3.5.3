@@ -1,13 +1,11 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Fri Nov 01 13:51:49 CST 2024
-tomcat-embed-el-8.5.31.jar>aliyunmaven=
+#Mon Nov 04 08:50:09 CST 2024
+>>>>>>>=3e2d57f441fe25ca19a32189ba0134aee320e4c1
+tomcat-embed-el-8.5.31-sources.jar>aliyunmaven=
+<<<<<<<=HEAD
 tomcat-embed-el-8.5.31.pom>aliyunmaven=
+tomcat-embed-el-8.5.31.jar>aliyunmaven=
 tomcat-embed-el-8.5.31.jar>central=
 tomcat-embed-el-8.5.31.pom>central=
 tomcat-embed-el-8.5.31-sources.jar>central=
-=======
-#Thu Oct 31 13:58:21 CST 2024
-tomcat-embed-el-8.5.31.jar>central=
-tomcat-embed-el-8.5.31.pom>central=
->>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
+=\=\=\=\=\=\=

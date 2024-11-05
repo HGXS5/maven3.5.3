@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:15 CST 2024
+okio-2.2.2.pom>aliyunmaven=
+okio-2.2.2-sources.jar>aliyunmaven=
 okio-2.2.2.jar>central=
+okio-2.2.2.jar>aliyunmaven=
+okio-2.2.2-javadoc.jar>aliyunmaven=
 okio-2.2.2.pom>central=

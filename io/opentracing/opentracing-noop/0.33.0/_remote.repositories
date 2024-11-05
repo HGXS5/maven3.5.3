@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:26 CST 2024
 opentracing-noop-0.33.0.pom>central=
+opentracing-noop-0.33.0-sources.jar>aliyunmaven=
+opentracing-noop-0.33.0.jar>aliyunmaven=
+opentracing-noop-0.33.0-javadoc.jar>aliyunmaven=
+opentracing-noop-0.33.0.pom>aliyunmaven=
 opentracing-noop-0.33.0.jar>central=

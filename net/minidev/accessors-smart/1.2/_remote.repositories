@@ -1,14 +1,13 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Fri Nov 01 13:52:14 CST 2024
-accessors-smart-1.2.jar>central=
-accessors-smart-1.2.pom>central=
-accessors-smart-1.2.jar>aliyunmaven=
+#Mon Nov 04 16:37:37 CST 2024
+accessors-smart-1.2-javadoc.jar>aliyunmaven=
+accessors-smart-1.2-sources.jar>aliyunmaven=
+>>>>>>>=3e2d57f441fe25ca19a32189ba0134aee320e4c1
 accessors-smart-1.2-sources.jar>central=
-accessors-smart-1.2-javadoc.jar>central=
+<<<<<<<=HEAD
+accessors-smart-1.2.jar>aliyunmaven=
 accessors-smart-1.2.pom>aliyunmaven=
-=======
-#Thu Oct 31 13:58:21 CST 2024
-accessors-smart-1.2.jar>central=
+accessors-smart-1.2-javadoc.jar>central=
 accessors-smart-1.2.pom>central=
->>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
+accessors-smart-1.2.jar>central=
+=\=\=\=\=\=\=

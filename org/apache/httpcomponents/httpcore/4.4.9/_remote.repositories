@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:16 CST 2024
+httpcore-4.4.9.pom>aliyunmaven=
+httpcore-4.4.9-sources.jar>aliyunmaven=
 httpcore-4.4.9.jar>central=
+httpcore-4.4.9-javadoc.jar>aliyunmaven=
 httpcore-4.4.9.pom>central=
+httpcore-4.4.9.jar>aliyunmaven=

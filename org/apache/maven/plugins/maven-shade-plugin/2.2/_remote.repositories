@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:36 CST 2024
+#Tue Nov 05 09:06:09 CST 2024
 maven-shade-plugin-2.2.jar>central=
 maven-shade-plugin-2.2.pom>central=
+maven-shade-plugin-2.2.jar>aliyunmaven=
+maven-shade-plugin-2.2.pom>aliyunmaven=

@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:46 CST 2024
+curvesapi-1.04.pom>aliyunmaven=
 curvesapi-1.04.jar>central=
 curvesapi-1.04.pom>central=
+curvesapi-1.04-sources.jar>aliyunmaven=
+curvesapi-1.04.jar>aliyunmaven=
+curvesapi-1.04-javadoc.jar>aliyunmaven=

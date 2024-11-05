@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:36 CST 2024
+#Tue Nov 05 09:06:09 CST 2024
 wagon-provider-api-1.0-beta-6.pom>central=
+wagon-provider-api-1.0-beta-6.jar>aliyunmaven=
+wagon-provider-api-1.0-beta-6.pom>aliyunmaven=
 wagon-provider-api-1.0-beta-6.jar>central=

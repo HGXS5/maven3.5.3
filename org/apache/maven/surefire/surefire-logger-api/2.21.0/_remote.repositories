@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:57 CST 2024
+#Tue Nov 05 09:06:12 CST 2024
 surefire-logger-api-2.21.0.jar>central=
 surefire-logger-api-2.21.0.pom>central=
+surefire-logger-api-2.21.0.jar>aliyunmaven=
+surefire-logger-api-2.21.0.pom>aliyunmaven=

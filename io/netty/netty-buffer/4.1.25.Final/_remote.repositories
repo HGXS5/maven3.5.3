@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:53 CST 2024
+netty-buffer-4.1.25.Final.jar>aliyunmaven=
+netty-buffer-4.1.25.Final-sources.jar>aliyunmaven=
 netty-buffer-4.1.25.Final.jar>central=
+netty-buffer-4.1.25.Final-javadoc.jar>aliyunmaven=
+netty-buffer-4.1.25.Final.pom>aliyunmaven=
 netty-buffer-4.1.25.Final.pom>central=

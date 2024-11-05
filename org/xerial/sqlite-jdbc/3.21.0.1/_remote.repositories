@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:22 CST 2024
+sqlite-jdbc-3.21.0.1.jar>aliyunmaven=
 sqlite-jdbc-3.21.0.1.jar>central=
+sqlite-jdbc-3.21.0.1.pom>aliyunmaven=
 sqlite-jdbc-3.21.0.1.pom>central=
+sqlite-jdbc-3.21.0.1-sources.jar>aliyunmaven=
+sqlite-jdbc-3.21.0.1-javadoc.jar>aliyunmaven=

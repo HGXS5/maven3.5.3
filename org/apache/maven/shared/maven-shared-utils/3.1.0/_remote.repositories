@@ -1,9 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Fri Nov 01 14:00:11 CST 2024
+#Tue Nov 05 09:06:20 CST 2024
 maven-shared-utils-3.1.0.pom>aliyunmaven=
-=======
-#Thu Oct 31 13:59:04 CST 2024
->>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
+>>>>>>>=3e2d57f441fe25ca19a32189ba0134aee320e4c1
+maven-shared-utils-3.1.0.jar>aliyunmaven=
 maven-shared-utils-3.1.0.jar>central=
 maven-shared-utils-3.1.0.pom>central=
+=\=\=\=\=\=\=
+<<<<<<<=HEAD

@@ -1,14 +1,13 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Fri Nov 01 13:52:14 CST 2024
+#Mon Nov 04 16:38:01 CST 2024
+>>>>>>>=3e2d57f441fe25ca19a32189ba0134aee320e4c1
+spring-boot-autoconfigure-2.0.3.RELEASE-javadoc.jar>aliyunmaven=
 spring-boot-autoconfigure-2.0.3.RELEASE.jar>central=
 spring-boot-autoconfigure-2.0.3.RELEASE.pom>central=
-spring-boot-autoconfigure-2.0.3.RELEASE.jar>aliyunmaven=
-spring-boot-autoconfigure-2.0.3.RELEASE-javadoc.jar>central=
-spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar>central=
 spring-boot-autoconfigure-2.0.3.RELEASE.pom>aliyunmaven=
-=======
-#Thu Oct 31 13:58:21 CST 2024
-spring-boot-autoconfigure-2.0.3.RELEASE.jar>central=
-spring-boot-autoconfigure-2.0.3.RELEASE.pom>central=
->>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
+spring-boot-autoconfigure-2.0.3.RELEASE.jar>aliyunmaven=
+spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar>aliyunmaven=
+<<<<<<<=HEAD
+spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar>central=
+spring-boot-autoconfigure-2.0.3.RELEASE-javadoc.jar>central=
+=\=\=\=\=\=\=

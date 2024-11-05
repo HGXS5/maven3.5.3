@@ -1,14 +1,13 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Fri Nov 01 13:51:44 CST 2024
-xmlunit-core-2.5.1.pom>aliyunmaven=
-xmlunit-core-2.5.1.jar>central=
-xmlunit-core-2.5.1-javadoc.jar>central=
-xmlunit-core-2.5.1-sources.jar>central=
-xmlunit-core-2.5.1.pom>central=
+#Mon Nov 04 16:37:12 CST 2024
+xmlunit-core-2.5.1-javadoc.jar>aliyunmaven=
+>>>>>>>=3e2d57f441fe25ca19a32189ba0134aee320e4c1
+xmlunit-core-2.5.1-sources.jar>aliyunmaven=
 xmlunit-core-2.5.1.jar>aliyunmaven=
-=======
-#Thu Oct 31 13:58:21 CST 2024
+<<<<<<<=HEAD
+xmlunit-core-2.5.1-sources.jar>central=
+xmlunit-core-2.5.1.pom>aliyunmaven=
+xmlunit-core-2.5.1-javadoc.jar>central=
 xmlunit-core-2.5.1.jar>central=
 xmlunit-core-2.5.1.pom>central=
->>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
+=\=\=\=\=\=\=

@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:48:29 CST 2024
+#Mon Nov 04 16:43:18 CST 2024
+https\://maven.aliyun.com/repository/public/.lastUpdated=1730709798862
 @default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1730440109996
 https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset

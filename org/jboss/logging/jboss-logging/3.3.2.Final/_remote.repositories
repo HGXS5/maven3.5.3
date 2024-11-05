@@ -1,13 +1,13 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Fri Nov 01 13:52:30 CST 2024
-jboss-logging-3.3.2.Final.pom>central=
-jboss-logging-3.3.2.Final.jar>aliyunmaven=
-jboss-logging-3.3.2.Final-javadoc.jar>central=
+#Mon Nov 04 16:37:26 CST 2024
+>>>>>>>=3e2d57f441fe25ca19a32189ba0134aee320e4c1
+<<<<<<<=HEAD
 jboss-logging-3.3.2.Final-sources.jar>central=
-jboss-logging-3.3.2.Final.pom>aliyunmaven=
-=======
-#Thu Oct 31 13:58:21 CST 2024
-jboss-logging-3.3.2.Final.pom>central=
->>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
+jboss-logging-3.3.2.Final-javadoc.jar>central=
+jboss-logging-3.3.2.Final.jar>aliyunmaven=
+jboss-logging-3.3.2.Final-javadoc.jar>aliyunmaven=
 jboss-logging-3.3.2.Final.jar>central=
+jboss-logging-3.3.2.Final.pom>aliyunmaven=
+jboss-logging-3.3.2.Final.pom>central=
+=\=\=\=\=\=\=
+jboss-logging-3.3.2.Final-sources.jar>aliyunmaven=

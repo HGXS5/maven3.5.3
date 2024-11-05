@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:13 CST 2024
+poi-ooxml-3.17.pom>aliyunmaven=
 poi-ooxml-3.17.jar>central=
+poi-ooxml-3.17-sources.jar>aliyunmaven=
 poi-ooxml-3.17.pom>central=
+poi-ooxml-3.17-javadoc.jar>aliyunmaven=
+poi-ooxml-3.17.jar>aliyunmaven=

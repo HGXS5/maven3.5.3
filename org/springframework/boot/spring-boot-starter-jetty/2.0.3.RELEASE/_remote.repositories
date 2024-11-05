@@ -1,4 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 13:36:52 CST 2024
+spring-boot-starter-jetty-2.0.3.RELEASE.jar>aliyunmaven=
+spring-boot-starter-jetty-2.0.3.RELEASE-sources.jar>aliyunmaven=
+spring-boot-starter-jetty-2.0.3.RELEASE.pom>aliyunmaven=
 spring-boot-starter-jetty-2.0.3.RELEASE.jar>central=
 spring-boot-starter-jetty-2.0.3.RELEASE.pom>central=

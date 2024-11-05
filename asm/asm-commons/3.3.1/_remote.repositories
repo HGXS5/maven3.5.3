@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:36 CST 2024
+#Tue Nov 05 09:06:09 CST 2024
 asm-commons-3.3.1.jar>central=
 asm-commons-3.3.1.pom>central=
+asm-commons-3.3.1.jar>aliyunmaven=
+asm-commons-3.3.1.pom>aliyunmaven=

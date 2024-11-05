@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
-kotlin-stdlib-1.2.41.pom>central=
+#Mon Nov 04 16:37:17 CST 2024
 kotlin-stdlib-1.2.41.jar>central=
+kotlin-stdlib-1.2.41.pom>central=
+kotlin-stdlib-1.2.41.jar>aliyunmaven=
+kotlin-stdlib-1.2.41-sources.jar>aliyunmaven=
+kotlin-stdlib-1.2.41.pom>aliyunmaven=
+kotlin-stdlib-1.2.41-javadoc.jar>aliyunmaven=

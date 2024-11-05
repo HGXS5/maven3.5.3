@@ -1,14 +1,13 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Fri Nov 01 13:51:55 CST 2024
-mockito-core-2.15.0.pom>aliyunmaven=
+#Mon Nov 04 16:37:37 CST 2024
 mockito-core-2.15.0.jar>central=
 mockito-core-2.15.0.pom>central=
-mockito-core-2.15.0.jar>aliyunmaven=
-mockito-core-2.15.0-javadoc.jar>central=
+>>>>>>>=3e2d57f441fe25ca19a32189ba0134aee320e4c1
 mockito-core-2.15.0-sources.jar>central=
-=======
-#Thu Oct 31 13:58:21 CST 2024
-mockito-core-2.15.0.jar>central=
-mockito-core-2.15.0.pom>central=
->>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1
+mockito-core-2.15.0-javadoc.jar>central=
+<<<<<<<=HEAD
+mockito-core-2.15.0.jar>aliyunmaven=
+mockito-core-2.15.0-sources.jar>aliyunmaven=
+mockito-core-2.15.0-javadoc.jar>aliyunmaven=
+mockito-core-2.15.0.pom>aliyunmaven=
+=\=\=\=\=\=\=

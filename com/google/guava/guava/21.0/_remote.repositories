@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:19 CST 2024
+guava-21.0.pom>aliyunmaven=
+guava-21.0-sources.jar>aliyunmaven=
 guava-21.0.jar>central=
+guava-21.0-javadoc.jar>aliyunmaven=
 guava-21.0.pom>central=
+guava-21.0.jar>aliyunmaven=

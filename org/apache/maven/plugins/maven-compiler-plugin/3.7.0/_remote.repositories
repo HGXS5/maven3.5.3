@@ -1,10 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Thu Oct 31 17:23:14 CST 2024
+#Tue Nov 05 09:14:15 CST 2024
 maven-compiler-plugin-3.7.0.jar>aliyunmaven=
 maven-compiler-plugin-3.7.0.pom>aliyunmaven=
-=======
-#Thu Oct 31 13:57:46 CST 2024
-maven-compiler-plugin-3.7.0.jar>central=
-maven-compiler-plugin-3.7.0.pom>central=
->>>>>>> 3e2d57f441fe25ca19a32189ba0134aee320e4c1

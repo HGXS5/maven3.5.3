@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:36 CST 2024
+#Tue Nov 05 08:52:46 CST 2024
+maven-shared-utils-0.7.pom>aliyunmaven=
 maven-shared-utils-0.7.jar>central=
 maven-shared-utils-0.7.pom>central=
+maven-shared-utils-0.7.jar>aliyunmaven=

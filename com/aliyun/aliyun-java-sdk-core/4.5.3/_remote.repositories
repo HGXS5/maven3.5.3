@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Nov 01 13:59:00 CST 2024
+#Mon Nov 04 16:37:58 CST 2024
+aliyun-java-sdk-core-4.5.3.pom>aliyunmaven=
+aliyun-java-sdk-core-4.5.3-sources.jar>aliyunmaven=
 aliyun-java-sdk-core-4.5.3.jar>central=
+aliyun-java-sdk-core-4.5.3-javadoc.jar>aliyunmaven=
 aliyun-java-sdk-core-4.5.3.pom>central=
+aliyun-java-sdk-core-4.5.3.jar>aliyunmaven=
