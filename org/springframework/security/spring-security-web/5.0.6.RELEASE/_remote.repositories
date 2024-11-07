@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 04 16:43:21 CST 2024
+#Thu Nov 07 14:15:21 CST 2024
 spring-security-web-5.0.6.RELEASE.jar>aliyunmaven=
+spring-security-web-5.0.6.RELEASE.jar>central=
+spring-security-web-5.0.6.RELEASE.pom>central=
 spring-security-web-5.0.6.RELEASE.pom>aliyunmaven=
